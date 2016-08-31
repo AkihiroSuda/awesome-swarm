@@ -38,6 +38,7 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
  * [wagl](https://github.com/ahmetalpbalkan/wagl) - DNS Service Discovery for Docker Swarm v1.0
  * [carina](https://github.com/getcarina/carina) - Command line client for Carina™ - Docker Swarm on demand 
  * [vfarcic/docker-swarm](https://github.com/vfarcic/docker-swarm) - This repository contains code used in the Scaling To Infinity with Docker Swarm, Docker Compose and Consul article series
+ * [interlock](https://github.com/ehazlett/interlock) - Dynamic, event-driven extension system using Swarm. Extensions include HAProxy and Nginx for dynamic load balancing.
 
 ## Other Links
 
