@@ -15,6 +15,7 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
 - [Tools](#tools)
   - [Benchmark](#benchmark)
   - [Network](#network)
+  - [Setup](#setup)
   - [Visualization](#visualization)
   - [DAB](#dab)
 - [Classic "Docker Swarm standalone"](#classic-docker-swarm-standalone)
@@ -29,6 +30,10 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
 ### Network
 
  * [Swarm Ingress Router](https://github.com/tpbowden/swarm-ingress-router) - Route DNS names to labelled Swarm services using Docker 1.12's internal service load balancing
+
+### Setup
+
+ * [miniswarm](https://github.com/aelsabbahy/miniswarm) - Docker Swarm cluster in one command
 
 ### Visualization
 
