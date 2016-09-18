@@ -39,9 +39,10 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
 
  * [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer) - A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3
 
-### DAB
+### Orchestration
 
  * [whaleprint](https://github.com/mantika/whaleprint) - Manage DAB as service blueprints for docker swarm mode
+ * [zenscaler](https://github.com/Zenika/zenscaler) - A flexible autoscaler for docker
 
 ## Classic "Docker Swarm standalone"
 
