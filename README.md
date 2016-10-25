@@ -31,6 +31,7 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
 
  * [Swarm Ingress Router](https://github.com/tpbowden/swarm-ingress-router) - Route DNS names to labelled Swarm services using Docker 1.12's internal service load balancing
  * [Træfɪk](https://github.com/containous/traefik) - a modern HTTP reverse proxy and load balancer made to deploy microservices with ease
+ * [Sillyproxy](https://github.com/stevvooe/sillyproxy) - a very simple proxy server that is configured by environment variables
 
 ### Setup
 
