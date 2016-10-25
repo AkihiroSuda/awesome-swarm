@@ -45,6 +45,7 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
 
  * [whaleprint](https://github.com/mantika/whaleprint) - Manage DAB as service blueprints for docker swarm mode
  * [zenscaler](https://github.com/Zenika/zenscaler) - A flexible autoscaler for docker
+ * [docker-compose-swarm-mode](https://github.com/ddrozdov/docker-compose-swarm-mode) - Drop in replacement for docker-compose that works with swarm mode introduced in Docker 1.12.
 
 ## Classic "Docker Swarm standalone"
 
