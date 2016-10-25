@@ -30,6 +30,7 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
 ### Network
 
  * [Swarm Ingress Router](https://github.com/tpbowden/swarm-ingress-router) - Route DNS names to labelled Swarm services using Docker 1.12's internal service load balancing
+ * [Træfɪk](https://github.com/containous/traefik) - a modern HTTP reverse proxy and load balancer made to deploy microservices with ease
 
 ### Setup
 
