@@ -26,6 +26,7 @@ For the comprehensive list of Docker related projects, please refer to [vaggiemo
 ### Benchmark
 
  * [swarm2k](https://github.com/swarm2k/swarm2k) - The Docker Swarm 2000 Collaborative Project
+ * [swarm3k](https://github.com/swarmzilla/swarm3k) - SwarmZilla 3000 Collaborative Project
 
 ### Network
 
